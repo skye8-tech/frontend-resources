@@ -205,4 +205,3 @@
 - **Week 1**: Focus on HTML/CSS basics with MDN, freeCodeCamp, and W3Schools. Use CodePen for practice.  
 - **Week 2**: Dive into CSS Grid, Flexbox, and JavaScript basics with MDN, freeCodeCamp, and JavaScript.info. Use CodeSandbox for JavaScript projects.  
 
-These resources will help your interns learn independently while working on their tasks and projects. Encourage them to explore and experiment!
